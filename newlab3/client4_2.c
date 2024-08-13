@@ -1,1 +1,0 @@
-// write a program to create a udp socket through which a server will accept a number from client 1 and forward it to client 2, and accept a number from client 2 and send to client 1 (swapping server)
