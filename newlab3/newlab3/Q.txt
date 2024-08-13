@@ -1,0 +1,10 @@
+// write a c program to create a udp socket through which client will send a message to the server and the server will echo back a message to the client. when the client will send exit, both will drop the connection
+
+//write a c program to create a udp socket through which client will send 2 interger numbers to the server, the server will add these 2 intergers and will send back the result
+
+// write a program to create a udp socket through which client will send an integer array to the server, server will sort the array in ascending order and send back the sorted array to the client, and client will display the sorted array
+
+// write a program to create a udp socket through which a server will accept a number from client 1 and forward it to client 2, and accept a number from client 2 and send to client 1 (swapping server)
+
+ 
+
