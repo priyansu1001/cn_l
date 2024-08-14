@@ -1,2 +1,2 @@
  # 5th sem CSE-29 cn lab notes 
- lab = the Q from record/manual <br>
+ lab = the Q done in lab (not necessarily from manual)<br>
