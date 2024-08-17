@@ -1,4 +1,8 @@
-/*				THE CLIENT PROCESS
+/*	
+							//sir code
+
+						THE CLIENT PROCESS
+ 
 
 	Please read the file server.c before you read this file. To run this,
 	you must first change the IP address specified in the line:
