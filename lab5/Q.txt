@@ -1,0 +1,7 @@
+// wap a tcp socket through which the client will send an integer no to the server the server will perform the sum and return the result
+
+
+// wap a tcp socket through which client will send the hostname to the server, the server will return back the corresponding ip address of the hostname
+
+// wap a tcp socket through which client will send a roll no to the server, server will return back the detail of the student of the particular roll no., initially server store details of 10 students on a file 
+
